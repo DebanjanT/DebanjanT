@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DebanjanT
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate with django developer
+- 👀 I’m interested in Web Development 
+- 🌱 Always Learner
+- 💞️ I’m looking to collaborate with anyone
 - 📫 mail: debanjantewary.1997@gmail.com
 
 <!---
